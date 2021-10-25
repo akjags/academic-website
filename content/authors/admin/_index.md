@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/akjags
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com
+  link: https://scholar.google.com/citations?user=JbE7DWYAAAAJ 
 - icon: github
   icon_pack: fab
   link: https://github.com/akjags

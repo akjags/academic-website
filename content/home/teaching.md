@@ -14,17 +14,10 @@ weight = 95
 
 +++
 
-I was a graduate student instructor for the following courses at Stanford University:
-
-- Psych 50: Intro to Cognitive Neuroscience
-  - Winter 2018, Winter 2019
-
-- Psych 30: Perception
-  - Fall 2017, Fall 2018
-
-- NEPR 207: Neurosciences Cognitive Core
-  - Spring 2019, Spring 2020
-
-
+I have served as a graduate student instructor for the following courses at Stanford University:
+- Psych 50: Intro to Cognitive Neuroscience (Undergraduate-level, head TA)
+- Psych 202: Foundations of Cognition (Graduate-level)
+- Psych 30: Perception (Undergraduate-level)
+- NEPR 207: Cognitive Neuroscience Core (Graduate-level)
 
 In addition, I teach AI to high school students, through the [Inspirit AI institute](https://www.inspiritai.com/).

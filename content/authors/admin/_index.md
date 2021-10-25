@@ -72,6 +72,6 @@ user_groups: []
 ---
 I am a PhD student studying vision science at Stanford. My research focuses on understanding what computations the human brain performs to give rise to visual perception and naturalistic behavior. Why are humans so good at certain tasks that artificial neural network models of vision find very difficult but so bad at other tasks which deep neural networks find trivial? I am advised in my doctoral studies by [Prof. Justin Gardner](https://gru.stanford.edu).
 
-Prior to graduate school, I was an undergraduate at UC Berkeley, where I worked on decoding object category representations from visual cortex using functional MRI, in the lab of [Prof. Mark D'Esposito](http://despolab.berkeley.edu). From 2015 to 2016, I was a visiting researcher in the lab of [Dr. Martin Rolfs](www.martinrolfs.de) at Humboldt Universitat / BCCN Berlin, where I worked on a study examining the effect of feature-based attention on visual working memory.
+Previously, I  was an undergraduate at UC Berkeley, where I worked in the lab of [Prof. Mark D'Esposito](http://despolab.berkeley.edu). From 2015 to 2016, I was a visiting researcher in the lab of [Dr. Martin Rolfs](www.martinrolfs.de) at Humboldt Universitat / BCCN Berlin. 
 
-In addition to research, I am also passionate about [teaching](#teaching) and have helped design and teach several courses at both UC Berkeley and Stanford on topics ranging from computer vision to neurobiology to the science of meditation.
+In addition to research, I am also passionate about [teaching](#teaching) and have designed, taught, and assisted in several courses at UC Berkeley and Stanford at the graduate and undergraduate levels on topics ranging from computer vision to cognitive neuroscience to the science of meditation.

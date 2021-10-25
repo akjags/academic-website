@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Neuroscientist-in-training, studying how the brain gives rise to perception and behavior.
+bio: Neuroscientist-in-training, studying how the brain supports perception and behavior.
 
 interests:
 - Computational Neuroscience
@@ -70,11 +70,11 @@ user_groups: []
 #- Researchers
 #- Visitors
 ---
-I am a PhD student studying vision science at Stanford, advised by [Dr. Justin Gardner](https://gru.stanford.edu). My research focuses on understanding human visual perception. Specifically, I'm interested in how the human brain transforms sensory inputs into the rich perceptual experience that we can use to guide our behavior. 
+I am a PhD student studying computational neuroscience at Stanford, advised by [Dr. Justin Gardner](https://gru.stanford.edu). My research focuses on understanding human visual perception - specifically, I'm interested in how the human brain transforms sensory inputs into the rich perceptual experience that we use to guide our behavior. 
 
-A primary goal of my research program has been to characterize the geometry of sensory representations in human visual cortex and to model the neural computations necessary to use these representations for goal-driven behavior. Key to this process is the role that attention plays in flexibly extracting and modulating sensory representations via task-dependent readouts.
+A primary goal of my research program has been to characterize the geometry of sensory representations in human visual cortex and to model the cortical computations involved in using these representations for goal-driven behavior. Key to this process is the role that attention plays in flexibly extracting and modulating sensory representations via task-dependent readouts.
 
-I'm also interested in the similarities and differences between the human visual system and state-of-the-art computational models of vision, such as deep neural networks. How are humans so good at certain tasks that are difficult for rtificial neural network models of vision but so poor at other tasks which deep neural networks find trivial? 
+I'm also interested in the similarities and differences between the human visual system and state-of-the-art computational models of vision, such as deep neural networks. How are humans so good at certain tasks that are difficult for artificial neural network models of vision but so poor at other tasks which deep neural networks find trivial? 
 
 We seek to answer these questions using a combination of functional neuroimaging, visual psychophysics, and computational modeling. 
 

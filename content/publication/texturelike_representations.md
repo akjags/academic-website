@@ -1,6 +1,6 @@
 +++
 title = "Texture-like representation of objects in human visual cortex"
-date = 2021-11-01T00:00:00
+date = 2021-11-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Akshay V. Jagadeesh**", "Justin L. Gardner"]
@@ -14,7 +14,7 @@ authors = ["**Akshay V. Jagadeesh**", "Justin L. Gardner"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Review*"

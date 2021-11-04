@@ -1,6 +1,6 @@
 +++
 title = "Attention enhances category representations across the brain with strengthened residual correlations to ventral temporal cortex"
-date = 2021-06-01T00:00:00
+date = 2021-11-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Arielle S. Keller˜", "**Akshay V. Jagadeesh**˜", "Lior Bugatus", "Leanne M. Williams", "Kalanit Grill-Spector"]

@@ -3,7 +3,7 @@ title = "Attention enhances category representations across the brain with stren
 date = 2021-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Arielle S. Keller\*", "**Akshay V. Jagadeesh**\*", "Lior Bugatus", "Leanne M. Williams", "Kalanit Grill-Spector"]
+authors = ["Arielle S. Keller", "**Akshay V. Jagadeesh**", "Lior Bugatus", "Leanne M. Williams", "Kalanit Grill-Spector"]
 
 # Publication type.
 # Legend:

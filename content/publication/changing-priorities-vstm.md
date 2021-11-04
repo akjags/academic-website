@@ -3,7 +3,7 @@ title = "Setting and changing feature priorities in visual short-term memory"
 date = 2016-04-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Z Kalogeropoulou", "A.V. Jagadeesh", "S. Ohl", "M. Rolfs"]
+authors = ["Zampeta Kalogeropoulou", "**Akshay V. Jagadeesh**", "Sven Ohl", "Martin Rolfs"]
 
 # Publication type.
 # Legend:

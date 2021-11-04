@@ -35,7 +35,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://web.stanford.edu/~akshayj/kalogeropoloujagadeesh.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -14,11 +14,11 @@ authors = ["Arielle S. Keller ^", "**Akshay V. Jagadeesh** ^", "Lior Bugatus", "
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Review*"
-publication_short = "In *Review*"
+publication = "In *NeuroImage*"
+publication_short = "In *NeuroImage*"
 
 # Abstract and optional shortened version.
 abstract = "How does attention enhance neural representations of goal-relevant stimuli while suppressing representations of ignored stimuli across regions of the brain? While prior studies have shown that attention enhances visual responses, we lack a cohesive understanding of how selective attention modulates visual representations across the brain. Here, we used functional magnetic resonance imaging (fMRI) while participants performed a selective attention task on superimposed stimuli from multiple categories and used a data-driven approach to test how attention affects both decodability of category information and residual correlations (after regressing out stimulus-driven variance) with category-selective regions of ventral temporal cortex (VTC). Our data reveal three main findings. First, when two objects are simultaneously viewed, the category of the attended object can be decoded more readily than the category of the ignored object, with the greatest attentional enhancements observed in occipital and temporal lobes. Second, after accounting for the response to the stimulus, the correlation in the residual brain activity between a cortical region and a category-selective region of VTC was elevated when that region’s preferred category was attended vs. ignored, and more so in the right occipital, parietal, and frontal cortices. Third, we found that the stronger the residual correlations between a given region of cortex and VTC, the better visual category information could be decoded from that region. These findings suggest that heightened residual correlations by selective attention may reflect the sharing of information between sensory regions and higher-order cortical regions to provide attentional enhancement of goal-relevant information."
@@ -35,7 +35,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/KellerJagadeeshetal2022_NeuroImage.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -43,7 +43,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S1053811922000301"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

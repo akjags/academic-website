@@ -35,7 +35,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/KalogeropoulouJagadeeshOhlRolfs2016_PBR.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -43,7 +43,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://link.springer.com/article/10.3758/s13423-016-1094-6"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

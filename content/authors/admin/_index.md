@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Harvard Medical School 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

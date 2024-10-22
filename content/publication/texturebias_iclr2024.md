@@ -1,5 +1,5 @@
 +++
-title = "Texture bias in primate ventral visual cortex and deep neural network models of vision."
+title = "Texture bias in primate ventral visual cortex and deep neural network models of vision"
 date = 2024-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

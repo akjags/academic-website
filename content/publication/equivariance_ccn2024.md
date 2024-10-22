@@ -1,6 +1,6 @@
 +++
 title = "Assessing equivariance in visual neural representations."
-date = 2024
+date = 2024-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Akshay V. Jagadeesh**", "Will Xiao", "Margaret S. Livingstone"]
